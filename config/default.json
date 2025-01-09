@@ -1,0 +1,4 @@
+{
+    "MONGO_URI":"mongodb+srv://ingalekrushna3003:Cyo2x5X4ihosyvNP@dev.cra9f.mongodb.net/?retryWrites=true&w=majority&appName=DEv",
+    "JWT_SECRET":"thisissecret"
+}
